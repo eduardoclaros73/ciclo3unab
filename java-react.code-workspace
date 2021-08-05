@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "java-backend"
+		},
+		{
+			"path": "react-frontend"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
