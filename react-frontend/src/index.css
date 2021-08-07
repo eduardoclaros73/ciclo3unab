@@ -12,6 +12,10 @@ header {
     font-family: sans-serif;
 }
 
+body { 
+    background-color: #aaacad; 
+}
+
 h1 {
     font-size: 18px;
     padding: 10px;
