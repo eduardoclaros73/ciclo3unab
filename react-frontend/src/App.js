@@ -171,7 +171,7 @@ export default class App extends Component {
       <Router>
         <div>
           <header>
-            <h1>Partidos</h1>
+            <h1>Ciclo Tres UNAB - Partidos de Futbol</h1>
             <Nav isLoggedIn={!!this.state.token} />
           </header>
           <main>
